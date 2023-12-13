@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmmdeminkl&label=Profile%20views&color=0e75b6&style=flat" alt="mhmmdeminkl" /> </p>
 
-- 📫 How to reach me **mhmmdemin0629@yaani.com**
+- 📫 **mhmmdemin0629@yaani.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
